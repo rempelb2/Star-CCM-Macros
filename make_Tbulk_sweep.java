@@ -15,7 +15,7 @@ import java.io.File;
 import java.io.IOException;
 import java.lang.Math;
 
-public class make_plane_sweep extends StarMacro {
+public class make_Tbulk_sweep extends StarMacro {
 
   public void execute() {
     execute0();
